@@ -7,7 +7,7 @@
       "orderNow": "Order now",
       "learnMore": "Learn more",
       "explore menu": "explore menu",
-      "genuine": "100% genuine products"
+      "genuine": "Healthy meals, cooked fresh daily"
     },
     "bestSeller": {
       "checkOut": "check out",
@@ -18,9 +18,9 @@
       "exploreOurMenus": "explore our menus",
       "aboutUs": "About us",
       "descriptions": {
-        "one": "Welcome to our pizzeria, where we serve the finest pizzas made with the freshest ingredients. Every slice is a masterpiece, crafted with care to deliver the perfect balance of flavors. From classic favorites to unique creations, there's something for every pizza lover!",
-        "two": "Our passion for pizza shines through every dish. We hand-pick the best local ingredients and bake them to perfection, ensuring that every bite is delicious and satisfying. Whether you're here for a quick meal or a relaxed dining experience, we’ve got you covered.",
-        "three": "Join us on a flavorful journey and experience the joy of pizza like never before. We pride ourselves on delivering great taste, quality, and service to make every meal memorable. Come and taste the difference!"
+        "one": "Akla started with a simple idea: eating well in Cairo shouldn't mean choosing between healthy and tasty. Every bowl, wrap and salad on our menu is built around whole ingredients and balanced portions.",
+        "two": "Our kitchen cooks everything the same day it's delivered. Nothing is frozen, nothing is reheated, and every recipe is checked by a nutritionist before it reaches the menu.",
+        "three": "Order a single meal when you're busy, or pick a meal plan and let us handle the whole week. Either way, it arrives fresh, on time, and ready to eat."
       }
     },
     "contact": {
@@ -287,7 +287,7 @@
     "extras": "Extras",
     "size": "Size",
     "Your cart is empty": "Your cart is empty. Start adding some delicious items!",
-    "copyRight": "© 2024 All rights reserved",
+    "copyRight": "· All rights reserved",
     "home": "Home",
     "about": "About",
     "menu": "Menu",
@@ -355,17 +355,17 @@
           "text": "Every dish is chosen by our chefs — nothing generic, nothing filler."
         },
         {
-          "title": "Pesticide Free Goods",
-          "text": "Produce comes from farms we visit, vet and re-check each season."
+          "title": "Fresh, Never Frozen",
+          "text": "Every meal is cooked the morning it's delivered — nothing sits in a freezer."
         },
         {
-          "title": "Flexibility Returns",
+          "title": "Flexible Orders",
           "text": "Change a size, add extras or cancel an order in a couple of taps."
         }
       ]
     },
     "facilities": {
-      "title": "Product Facilities",
+      "title": "With Every Order",
       "subtitle": "What you get with every order, from the kitchen to your door.",
       "items": [
         {
@@ -373,11 +373,11 @@
           "text": "Balanced plates portioned by our in-house nutritionists."
         },
         {
-          "title": "Pesticide Free",
-          "text": "Produce sourced from farms we visit and vet ourselves."
+          "title": "Cooked Same Day",
+          "text": "Prepared in our kitchen the morning it reaches your door."
         },
         {
-          "title": "Sweet Exotic Food",
+          "title": "Fresh Weekly Menu",
           "text": "Seasonal recipes rotated weekly so the menu stays fresh."
         },
         {
@@ -385,8 +385,8 @@
           "text": "Change sizes, add extras or reschedule in a few taps."
         },
         {
-          "title": "Livestock Product",
-          "text": "Meat and dairy traced back to named, audited suppliers."
+          "title": "Quality Proteins",
+          "text": "Chicken, beef and salmon from trusted local suppliers."
         },
         {
           "title": "Variety & Selection",
@@ -435,20 +435,20 @@
     "counters": {
       "items": [
         {
-          "value": "560",
-          "label": "Good reviews"
+          "value": "30",
+          "label": "Minutes avg. delivery"
         },
         {
-          "value": "197",
-          "label": "Menu items"
+          "value": "5",
+          "label": "Food categories"
         },
         {
-          "value": "268",
-          "label": "Partner farms"
+          "value": "100%",
+          "label": "Cooked same day"
         },
         {
-          "value": "340",
-          "label": "Daily orders"
+          "value": "7",
+          "label": "Days a week"
         }
       ]
     },

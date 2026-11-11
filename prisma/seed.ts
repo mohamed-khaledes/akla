@@ -476,7 +476,7 @@ async function main() {
   await prisma.blog.createMany({
     data: [
       {
-        title: 'Pure is the most healthy and most nourishing food',
+        title: 'What "pure" means once it reaches your plate',
         slug: 'pure-is-the-most-healthy-and-nourishing-food',
         excerpt:
           'Why we build every menu around whole ingredients, and what "pure" actually means once it reaches your plate.',
@@ -488,7 +488,7 @@ async function main() {
         views: 238
       },
       {
-        title: "Nature's path organic food is a place to find",
+        title: 'How to read organic labels properly',
         slug: 'natures-path-organic-food-is-a-place-to-find',
         excerpt:
           'A short guide to reading organic labels properly, and the three certifications that actually mean something.',
@@ -500,7 +500,7 @@ async function main() {
         views: 194
       },
       {
-        title: 'Organics is a brand known for its focus on income',
+        title: 'Why we pay our farmers more',
         slug: 'organics-is-a-brand-known-for-its-focus-on-income',
         excerpt:
           'What paying farmers properly does to a menu, and why the cheapest ingredient is rarely the cheapest choice.',
